@@ -8,13 +8,6 @@
             "Xuanvinh\\Isodd\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "XuanVinh\\Isodd\\IsoddServiceProvider"
-            ]
-        }
-    },
     "authors": [
         {
             "name": "abc"
