@@ -1,0 +1,25 @@
+{
+    "name": "xuanvinh/isodd",
+    "description": "This will check a number is odd or not",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xuanvinh\\Isodd\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "XuanVinh\\Isodd\\IsoddServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "abc"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
